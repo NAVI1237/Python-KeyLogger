@@ -3,7 +3,7 @@ Un simple KeyLogger que soporta el envio de registros por gmail o puede guardarl
 
 **El script escucha las pulsaciones de teclas en segundo plano, cada cierto intervalo los guarda en un archivo de texto o puede enviar el registro por email**
 
-#Requisitos
+# Requisitos
 Instalar el modulo `keyboard`
 
 # Enviar keylog por gmail
